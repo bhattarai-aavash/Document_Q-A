@@ -17,6 +17,7 @@ Ensure you have the necessary dependencies installed.
 
 ## Run the app
 
-```bash streamlit run app.py
-```
+```bash
+streamlit run app.py
+
 
